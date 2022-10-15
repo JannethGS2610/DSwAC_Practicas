@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dbp>
+    <estudiante ides="1"> 
+        <cedula>0604056598</cedula>
+        <nombre>Janneth </nombre>
+        <apellido>Guamán</apellido>
+        <celular>0987125350</celular>
+        <ciudad>Riobamba</ciudad>
+        <fecha>26-octubre-1991</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>
+    </estudiante>
+       <estudiante> 
+        <cedula>0604705269</cedula>
+        <nombre>Lenin</nombre>
+        <apellido>Quizhpe</apellido>
+        <celular>0987452356</celular> 
+        <ciudad>Loja</ciudad>
+        <fecha>12-agosto-1983</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>   
+    </estudiante>  
+    <estudiante>
+        <cedula>0604704395</cedula>
+        <nombre>Wilson</nombre>
+        <apellido>Sanchez</apellido>
+        <celular>0986521004</celular>
+        <ciudad>Catamayo</ciudad>
+        <fecha>21-febrero-1991</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>
+    </estudiante> 
+    <estudiante> 
+        <cedula>0502356987</cedula>
+        <nombre>Galo</nombre>
+        <apellido>Medina</apellido>
+        <celular>0980085747</celular>    
+        <ciudad>Zamora</ciudad>
+        <fecha>01-Enero-1983</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>
+    </estudiante>
+    <estudiante> 
+        <cedula>0604587458</cedula>
+        <nombre>Diego</nombre>
+        <apellido>Chamba</apellido>
+        <celular>0988563210</celular> 
+        <ciudad>Cuenca</ciudad>
+        <fecha>24-Septiembre-1985</fecha>
+        <titulo>Ingeniero en Sistemas</titulo>   
+    </estudiante>  
+ 
+</dbp>

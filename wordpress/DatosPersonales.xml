@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dbp>
+    <datosInformativos ides="1"> 
+        <cedula>0604056598</cedula>
+        <nombre>Janneth Patricia</nombre>
+        <apellido>Guamán Siguenza</apellido>
+        <asignatura>Desarrollo de Software en Ambientes Cloud</asignatura>
+        <prog_maestria>Maestría en Ingeniería en Software</prog_maestria>
+        <celular>0984027353</celular>
+        <ciudad>Riobamba</ciudad>
+        <fechaTrabajo>26-octubre-1991</fechaTrabajo>
+        <titulo>Ingeniera en Sistemas y Computación</titulo>
+    </datosInformativos>
+</dbp>
